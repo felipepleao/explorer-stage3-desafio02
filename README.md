@@ -1,7 +1,7 @@
 # Explorer Stage 03 | Desafio 02 - Mobile First e Grid
 
-![preview](image/preview1.png)
-![preview](image/preview2.png)
+![preview](images/preview1.png)
+![preview](images/preview2.png)
 
 > Explorer
 
